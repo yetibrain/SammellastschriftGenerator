@@ -1,0 +1,30 @@
+<DrctDbtTxInf>
+                <PmtId>
+                    <EndToEndId>NOTPROVIDED</EndToEndId>
+                </PmtId>
+                <InstdAmt Ccy="EUR">48.00</InstdAmt>
+                <DrctDbtTx>
+                    <MndtRltdInf>
+                        <MndtId>R2017-0002</MndtId>
+                        <DtOfSgntr>2019-03-04</DtOfSgntr>
+                    </MndtRltdInf>
+                </DrctDbtTx>
+                <DbtrAgt>
+                    <FinInstnId>
+                        <Othr>
+                            <Id>NOTPROVIDED</Id>
+                        </Othr>
+                    </FinInstnId>
+                </DbtrAgt>
+                <Dbtr>
+                    <Nm>Herr Dr. Rolf Muschick</Nm>
+                </Dbtr>
+                <DbtrAcct>
+                    <Id>
+                        <IBAN>DE57200100200206586203</IBAN>
+                    </Id>
+                </DbtrAcct>
+                <RmtInf>
+                    <Ustrd>Jahresbeitrag 2023 - Liberale Männer</Ustrd>
+                </RmtInf>
+</DrctDbtTxInf>
